@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "notooltipid",
+    "name": "No Tooltip ID",
+    "description": "Hides the #0000 item id next to the item name in advanced tooltips (F3 + H). Client-side only.",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["DanielhackerXD"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
